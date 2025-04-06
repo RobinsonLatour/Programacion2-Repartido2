@@ -6,7 +6,7 @@ public class Ej9_Validar_ingreso_contrasena {
         Scanner leer = new Scanner(System.in);
 
         String contrasena = "java123";
-        String ingreso = "";
+        String ingreso;
 
         do {
             System.out.println("Ingresa tu contraseña:");
