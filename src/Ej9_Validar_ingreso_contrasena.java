@@ -12,6 +12,9 @@ public class Ej9_Validar_ingreso_contrasena {
             System.out.println("Ingresa tu contraseña:");
             ingreso = leer.nextLine();
 
+            //Para Strings usar equals() en lugar de ==
+            // equals() compara el CONTENIDO mientras que == compara REFERENCIAS en memoria
+
             if (contrasena.equals(ingreso)) {
                 System.out.println("¡Acceso correcto!");
             }else {
