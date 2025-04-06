@@ -1,4 +1,4 @@
-public class Suma_de_numeros_del_1_al_100 {
+public class Ej6_Suma_de_numeros {
     public static void main(String[] args) {
 
         int total = 0;

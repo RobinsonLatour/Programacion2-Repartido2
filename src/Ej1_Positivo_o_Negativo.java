@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Positivo_o_Negativo {
+public class Ej1_Positivo_o_Negativo {
     public static void main(String[] args) {
 
         Scanner leer = new Scanner(System.in);
